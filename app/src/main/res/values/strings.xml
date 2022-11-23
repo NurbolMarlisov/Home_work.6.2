@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Home_work.6.2</string>
+    <string name="ic_enter">Вход</string>
+    <string name="ic_welcome">Добро пожаловать!</string>
+    <string name="ic_forget_password">Забыли пороль?</string>
+    <string name="ic_click_hear">Нажмите сюда</string>
+    <string name="ic_enter_or_register">Выполните вход \n или зарегистрируйтесь</string>
+    <string name="ic_enter_email">Введите вашу почту</string>
+    <string name="ic_enter_password">Введите пороль</string>
+    <string name="ic_enter_go">Войти</string>
+</resources>
